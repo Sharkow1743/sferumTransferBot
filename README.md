@@ -1,7 +1,8 @@
 # Sferum Transfer Bot
 
 > [!CAUTION]
-> Может блокировать аккаунт [#10](https://github.com/Sharkow1743/SferumTransferBot/issues/10#issue-3961856910)
+> Может блокировать аккаунт [#10](https://github.com/Sharkow1743/SferumTransferBot/issues/10#issue-3961856910).
+> Сейчас некоторых разблокировали, непонятно как с этим сейчас
 
 Бот для пересылки сообщений из Max в Telegram.
 
